@@ -1,2 +1,2 @@
 # testGit
-learning basics of git hub
+learning basics of git and github
